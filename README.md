@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Abdullah Al-Nafisah
-Always looking for something new to learn🌱
-EE & PHYS Graduate⚡from KFUPM 
+- Always looking for something new to learn🌱
+- EE & PHYS Graduate⚡from KFUPM 
 
 <!--
 **abdullahnafisah/abdullahnafisah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
